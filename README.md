@@ -1,10 +1,10 @@
 `Dashboard calculadora`
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Creamos una aplicacion web utilizando nextjs con tailwind en el cual calculamos el IMC de personas.
 
-## Getting Started
+## Como ejecutar el programa:
 
-First, run the development server:
+Primero, nos dirigimos a la ruta del proyecto y ejecutamos el codigo
 
 ```bash
 npm run dev
@@ -14,7 +14,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrimos [http://localhost:3000](http://localhost:3000) Con el navegador para ver el resultado
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
