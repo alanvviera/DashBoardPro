@@ -26,6 +26,10 @@ you can run npm run dev at you terminal and visite
 ![image](https://github.com/alanvviera/DashBoardPro/assets/28272388/e033b058-ab3b-4489-8720-605dcc151925)
 
 
+###DEPLOY
+https://dash-board-pro.vercel.app
+
+
 
 
 ## License 📄
